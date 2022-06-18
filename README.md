@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @jorgenlaaker
+- 👀 I’m interested in programing
+- 🌱 I’m currently learning supabase, node, nestjs
+- 📫 How to reach me ...
